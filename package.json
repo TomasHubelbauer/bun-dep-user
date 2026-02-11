@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tomashubelbauer/bun-dep": "github:TomasHubelbauer/bun-dep"
+  }
+}
